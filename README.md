@@ -1,2 +1,2 @@
 # indicator
-ema with engulfing candle combo
+ engulfing candle with the combination of ema to ride with the trend   
